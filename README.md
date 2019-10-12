@@ -1,5 +1,4 @@
 # Restaurant Reviews App
-=======================
 
 # Table of Contents
 
